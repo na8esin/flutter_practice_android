@@ -1,0 +1,2 @@
+むしろenable-web: trueにしないとエラーが発生して、androidのビルドもできなくなるので、
+flutter_practiceとは別で作成
